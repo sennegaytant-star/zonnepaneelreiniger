@@ -30,7 +30,7 @@ const float grensAfstand = 12.0;  // cm - aanpassen na meten!
 int state = 0;
 int rijRichting = 1;      // 1 = vooruit, -1 = achteruit
 int draaiKant = 1;        // 1 = rechts draaien, -1 = links draaien
-int verschuifFase = 0;    // bijhoudt welke fase van verschuiven we in zitten
+int verschuifFase = 0;    // bijhoudt welke fase "we in zitten
 
 unsigned long faseStart = 0;
 
